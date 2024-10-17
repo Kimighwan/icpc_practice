@@ -18,5 +18,8 @@
     <ClCompile Include="7287BOJ_등록_2019_I.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16283BOJ_Farm_2018_B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
