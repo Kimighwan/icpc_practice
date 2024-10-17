@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="7287BOJ_등록.cpp">
+    <ClCompile Include="7287BOJ_등록_2019_I.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
