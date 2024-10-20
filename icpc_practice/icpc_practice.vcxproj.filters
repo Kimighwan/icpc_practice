@@ -36,5 +36,8 @@
     <ClCompile Include="질문중_6064BOJ_카잉 달력_2013_B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1806BOJ_부분합_Europe_2006_B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
